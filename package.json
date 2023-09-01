@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "workspaces": ["workspace", "app"],
+  "dependencies": {
+    "metro": "0.78.1"
+  }
+}
