@@ -1,5 +1,5 @@
 {
-  "name": "test-workspace",
+  "name": "test-module",
   "exports": {
     "./*": "./src/*.js"
   }

@@ -1,6 +1,6 @@
 {
   "name": "test-app",
   "dependencies": {
-    "test-workspace": "*"
+    "test-module": "*"
   }
 }

@@ -1,1 +1,3 @@
-require('test-workspace/module')
+const mod = require('test-module/module')
+
+console.log(mod)
