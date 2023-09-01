@@ -1,1 +1,1 @@
-import 'test-workspace/module'
+require('test-workspace/module')

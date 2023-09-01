@@ -1,7 +1,6 @@
 {
   "name": "test-workspace",
-  "type": "module",
   "exports": {
-    "./": "/src/"
+    "./*": "./src/*.js"
   }
 }
